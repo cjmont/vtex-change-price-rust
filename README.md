@@ -56,7 +56,3 @@ If you wish to contribute to the project, please fork the repository and submit 
 ## License
 
 This project is under the MIT license. See the `LICENSE` file for more details.
-
----
-
-This is a basic example of a `README.md`. You can customize it further based on the specific features and details of your project.
