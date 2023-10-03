@@ -18,8 +18,8 @@ This project contains a scheduled task in Rust that runs every hour to update pr
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/rust_hourly_task.git
-cd rust_hourly_task
+git clone https://github.com/cjmont/vtex-change-price-rust.git
+cd vtex-change-price-rust
 ```
 
 2. Build the project:
